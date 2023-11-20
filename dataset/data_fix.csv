@@ -1,4 +1,4 @@
-Jenis Kelamin,Umur Tahun,Tinggi,Berat Badan,IMT,Sistole,Diastole,Nafas,Detak Nadi,Diagnosa 1
+Jenis_Kelamin,Umur,Tinggi,Berat Badan,IMT,Sistole,Diastole,Nafas,Detak Nadi,Diagnosa
 L,0,62.0,6.0,15.61,85,56,32,102,Negatif
 P,15,150.0,45.0,20.0,90,60,18,80,Negatif
 P,62,155.0,70.0,29.14,170,100,20,80,Positif
