@@ -1,4 +1,4 @@
-Jenis Kelamin,Umur Tahun,Tinggi,Berat Badan,IMT,Sistole,Diastole,Nafas,Detak Nadi,Diagnosa 1
+Jenis_Kelamin,Umur_Tahun,Tinggi,Berat_Badan,IMT,Sistole,Diastole,Nafas,Detak_Nadi,Diagnosa
 P,43 Tahun,158 cm,56 kg,22.43,110 mm,60 Hg,18 /menit,80 /menit,BUKAN
 P,57 Tahun,156 cm,56 kg,23.01,140 mm,90 Hg,20 /menit,84 /menit,IYA
 P,43 Tahun,154 cm,60 kg,25.3,145 mm,90 Hg,20 /menit,80 /menit,IYA
